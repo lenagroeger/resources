@@ -122,10 +122,11 @@ ol {
   }
 
   h1 {
-        font-family: 'Roboto Slab', serif;
-    font-size: 45px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 70px;
     color: #D23030;
     margin: 35px 0px 5px 0px;
+    font-weight: 400;
   }
 
 
