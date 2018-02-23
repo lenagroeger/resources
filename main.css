@@ -5,7 +5,7 @@
 }
 
 #introduction > div {
-  margin-bottom: 100px
+  margin: 10px 10px 100px 10px
 }
 
 #introduction {
@@ -123,7 +123,7 @@ ol {
 
   h1 {
     font-family: 'Roboto Slab', serif;
-    font-size: 70px;
+    font-size: 60px;
     color: #D23030;
     margin: 35px 0px 5px 0px;
     font-weight: 400;
