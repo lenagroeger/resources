@@ -71,11 +71,13 @@ h1 {
 h2 {
   font-family: 'Tiempos Text', serif;
   font-size: 30px;
-  color: #444;
+  color: #cecece;
   clear: both;
   margin:40px 0px 0px;
   font-weight: 400;
 }
+
+
 h4 {
   font-size: 13px;
   text-transform: uppercase;
