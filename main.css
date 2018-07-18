@@ -152,7 +152,7 @@ li {
 
   @font-face {
   font-family:'Tiempos Text';
-  src:url("https://static.propublica.org/v3/assets/fonts/TiemposTextWeb-Bold.woff2") format("woff2"),url("https://static.propublica.org/v3/assets/fonts/TiemposTextWeb-Bold.woff") format("woff");
+  src:url("https://static.propublica.org/v3/assets/fonts/TiemposTextWeb-Semibold.woff2") format("woff2"),url("https://static.propublica.org/v3/assets/fonts/TiemposTextWeb-Bold.woff") format("woff");
   font-weight:bold;
   font-style:normal }
 
